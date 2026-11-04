@@ -1,0 +1,1 @@
+This repository contains the code and intermediate results associated with the paper "Estimating the Number of Changepoints in Segmented Regression: New Sequential Tests and Comparative Evaluation" by Ana Radulović and Rok Blagus.
