@@ -1,0 +1,3 @@
+"test","statistic","df","p_value"
+"Breusch-Pagan (Koenker), year as factor",248.3,"32",2.73e-35
+"Brown-Forsythe, by year",9.94,"32, 32943",1.36e-48

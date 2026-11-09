@@ -1,0 +1,2 @@
+"id","npy","rep","n","method","bw_factor","K","K_B","p_values","seconds"
+131,500,31,16500,"gof_simulated_type2",1,3,1,"0.000999; 0.02498; 0.04396; 0.979; NA",473

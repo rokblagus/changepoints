@@ -1,0 +1,2 @@
+"id","npy","rep","n","method","bw_factor","K","K_B","p_values","seconds"
+5,200,5,6600,"gof_permuted_hetero",1,2,0,"0.02897; 0.005994; 0.4725; NA; NA",2089
